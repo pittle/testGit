@@ -5,3 +5,6 @@ Git tracks changes.
 I love you pittle
 
 do you like me ? 
+
+
+Creating a new branch is quick and simple.
