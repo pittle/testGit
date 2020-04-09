@@ -1,13 +1,4 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes.
-I love you pittle
+this is a readme.txt
 
-do you like me ? 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> feature1
-Creating a new branch is quick and simple.
+i come back if you do nothing
